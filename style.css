@@ -3,13 +3,24 @@ body {
 }
 
 header {
+    height:115px;
+    background-color: #505280;
     display: flex;
     justify-content: space-between;
 }
 
-#logo {
+#logo-img {
     height: 150px;
     width: 150px;
     border-radius: 150px;
+    position:relative;
+    margin: 24px;
+    z-index: 1;
+}
+
+#banner-img {
+    width: 100%;
+    color:#505280;
+    position: relative;
 }
 
