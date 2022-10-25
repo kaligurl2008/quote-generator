@@ -50,8 +50,8 @@ navbar a {
     padding-top: 64px;
     position: absolute;
     z-index: 1;
-    margin-top: -900px;
-    margin-left: 600px;
+    margin-top: -50%;
+    margin-left: 25%;
 }
 
 #quote-container {
